@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "tsc-watch index.ts --onSuccess \"node index.js\""
+  },
+  "dependencies": {
+    "tsc-watch": "^4.6.0",
+    "typescript": "^4.5.4"
+  }
+}
